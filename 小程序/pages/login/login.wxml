@@ -1,0 +1,11 @@
+<!--pages/login/login.wxml-->
+<view class="login-container">
+  <view class="title">林业有害生物智能管理</view>
+  <view class="login-box">
+    <label>用户名</label>
+    <input placeholder='请输入用户名' name="username" bindinput="inputUs"></input>
+    <label>密码</label>
+    <input placeholder='请输入密码' password='true' name="pwd" bindinput="inputPs"></input>
+    <button bindtap="clickLogin" class="login-btn" form-type='submit'>立即登录</button>
+  </view>
+</view>

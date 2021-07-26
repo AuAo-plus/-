@@ -1,0 +1,4 @@
+<!--pages/door/door.wxml-->
+<view class="box">
+  <button bindtap="change" class="door">点击{{open}}</button>
+</view>

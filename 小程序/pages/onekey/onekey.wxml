@@ -1,0 +1,4 @@
+<!--pages/onekey/onekey.wxml-->
+<view class="box">
+  <button bindtap="change" class="oneKey">{{ifOpen}}</button>
+</view>

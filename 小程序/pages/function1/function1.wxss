@@ -1,0 +1,38 @@
+/* pages/function1/function1.wxss */
+
+   .box1{
+    font-size: larger;
+    width: 350px;
+    height: 100px;
+    background:rgb(214, 196, 117);
+     text-align:center;
+     line-height: 100px;
+     }
+   .box2{
+      font-size: larger;
+      width: 350px;
+      height: 100px;
+      background:rgb(202, 59, 66);
+       text-align:center;
+       line-height: 100px;
+       }
+  .box3{
+        font-size: larger;
+        width: 350px;
+        height: 100px;
+        background:rgb(45, 168, 148);
+         text-align:center;
+         line-height: 100px;
+         }
+  
+   .box4{
+          font-size: larger;
+          width: 350px;
+          height: 100px;
+          background:rgb(57, 28, 165);
+           text-align:center;
+           line-height: 100px;
+           }
+
+.boxHover{background-color:white;}
+

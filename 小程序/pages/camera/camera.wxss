@@ -1,0 +1,14 @@
+/* pages/camera/camera.wxss */
+.camera{
+  width: 100vw;
+  height: 100vh;
+}
+.record{
+  position: fixed;
+  bottom: 10rpx;
+  left: 0;
+  right: 0;
+  /* width: 10vw; */
+  height: 120rpx;
+  margin: auto;
+}

@@ -1,0 +1,13 @@
+/* pages/onekey/onekey.wxss */
+.box{
+  width:100vw;
+  height:100vh;
+  display:flex;
+  justify-items: center;
+  align-items: center;
+}
+.oneKey{
+  width: 100vw;
+  height: 10vh;
+  background-color: rgb(74, 92, 196);
+}

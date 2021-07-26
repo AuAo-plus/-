@@ -1,0 +1,6 @@
+<camera
+  class="camera"
+  frame-size="large"
+></camera>
+  <!-- frame-size="large"拍照图片高清 -->
+<button class='record' bindtap='takePhoto'>拍摄</button>

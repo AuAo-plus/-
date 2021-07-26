@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/function1/function1",
+    "pages/index/index",
+   
+    "pages/logs/logs",
+    "pages/function2/function2",
+    "pages/login/login",
+    "pages/camera/camera",
+    "pages/door/door",
+    "pages/travel/travel",
+    "pages/onekey/onekey"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff666",
+    "navigationBarTitleText": "基于深度学习的人脸识别门禁系统",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "iconPath": "images/y1.png",
+        "selectedIconPath": "images/y.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "images/s.png",
+        "selectedIconPath": "images/s1.png",
+        "pagePath": "pages/function1/function1",
+        "text": "设备管理"
+      },
+      {
+        "iconPath": "images/w1.png",
+        "selectedIconPath": "images/w.png",
+        "pagePath": "pages/function2/function2",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
